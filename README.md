@@ -52,8 +52,8 @@ Veja os repositórios fixados abaixo. Os principais:
 ### 🌱 Estudando agora
 
 - `pandas` — limpeza, groupby, análise exploratória
-- Projeto em construção: **análise de salários por cargo na área de dados** (em breve aqui)
-
+- RAG, LLM, agentes — com foco em automação jurídica
+- Projeto em construção: **AURA Agent** — robô RPA com LLM integrado, capaz de ler petições, classificar processos e operar sistemas judiciais com linguagem natural
 ### 📫 Contato
 
 - LinkedIn: {{www.linkedin.com/in/marcelo-pena-guerra}}
