@@ -56,9 +56,8 @@ Veja os repositórios fixados abaixo. Os principais:
 - Projeto em construção: **AURA Agent** — robô RPA com LLM integrado, capaz de ler petições, classificar processos e operar sistemas judiciais com linguagem natural
 ### 📫 Contato
 
-- LinkedIn: {{www.linkedin.com/in/marcelo-pena-guerra}}
-- Email: {{guerramarcelopena@gmail.com}}
-
+- LinkedIn: [](https://www.linkedin.com/in/marcelo-pena-guerra)
+- Email: guerramarcelopena@gmail.com
 ---
 
 <details>
