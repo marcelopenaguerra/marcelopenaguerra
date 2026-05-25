@@ -52,7 +52,7 @@ Veja os repositórios fixados abaixo. Os principais:
 
 ### Contato
 
-- LinkedIn: [](https://www.linkedin.com/in/marcelo-pena-guerra)
+- LinkedIn: [linkedin.com/in/marcelo-pena-guerra](https://www.linkedin.com/in/marcelo-pena-guerra)
 - Email: guerramarcelopena@gmail.com
 
 ---
@@ -90,7 +90,7 @@ Currently transitioning to **Data Science**, studying from scratch in focused mo
 
 ### Contact
 
-- LinkedIn: [](https://www.linkedin.com/in/marcelo-pena-guerra)
+- LinkedIn: [linkedin.com/in/marcelo-pena-guerra](https://www.linkedin.com/in/marcelo-pena-guerra)
 - Email: guerramarcelopena@gmail.com
 
 </details>
