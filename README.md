@@ -1,8 +1,3 @@
-<!--
-  README do PERFIL — vai no repositório `marcelopenaguerra/marcelopenaguerra`
-  (repo com o mesmo nome do seu usuário; o README dele aparece na home do seu perfil)
--->
-
 <div align="center">
 
 # Olá, eu sou o Marcelo 👋
@@ -19,20 +14,20 @@
 
 ---
 
-### 🇧🇷 Sobre mim
+### Sobre mim
 
 Sou **Desenvolvedor RPA** no **CESUPE / TJMG**, onde projeto e mantenho robôs em Python para o sistema judicial de Minas Gerais — automações Selenium para o eProc e RUPE/JPE, aplicações desktop em CustomTkinter, dashboards web e integrações com APIs corporativas (Jira, Google Sheets, Supabase).
 
 Atualmente em transição para **Data Science**, estudando do zero em sessões focadas pela manhã. Pandas, estatística e ML são o foco imediato; NLP aplicado a texto jurídico é a especialização natural no longo prazo.
 
-### 🔧 O que eu construo
+### O que eu construo
 
 - **Robôs RPA** — Selenium + Python para eliminar trabalho repetitivo em sistemas judiciais (eProc, RUPE/JPE), com GUI, processamento em lote, pause/resume e logs auditáveis
 - **Ferramentas internas** — apps desktop (CustomTkinter) e web (Streamlit) em uso no dia a dia dos servidores
 - **Dashboards executivos** — métricas de entrega, aging e SLAs (Jira API + Google Sheets + frontend)
 - **Design system próprio** — AURA: paleta dark, tipografia consistente, identidade visual unificada nos robôs
 
-### 🛠️ Stack
+### Stack
 
 **Linguagens:** Python · SQL · JavaScript  
 **Automação:** Selenium · PyAutoGUI · PyInstaller  
@@ -41,27 +36,29 @@ Atualmente em transição para **Data Science**, estudando do zero em sessões f
 **Dados:** Pandas · SQLite · Supabase  
 **Integrações:** Jira REST API · Google Sheets API · Google Apps Script
 
-### 📌 Projetos em destaque
+### Projetos em destaque
 
 Veja os repositórios fixados abaixo. Os principais:
 
-- 🤖 **AURA Suite** — robôs RPA para automação judicial, com design system próprio
-- 🎯 **Bastão** — sistema de gestão de filas em Streamlit, em produção no TJMG
-- 📊 **Jira Analytics** — dashboards de aging e métricas executivas
+- **AURA Suite** — robôs RPA para automação judicial, com design system próprio
+- **Bastão** — sistema de gestão de filas em Streamlit, em produção no TJMG
+- **Jira Analytics** — dashboards de aging e métricas executivas
 
-### 🌱 Estudando agora
+### Estudando agora
 
 - `pandas` — limpeza, groupby, análise exploratória
 - RAG, LLM, agentes — com foco em automação jurídica
 - Projeto em construção: **AURA Agent** — robô RPA com LLM integrado, capaz de ler petições, classificar processos e operar sistemas judiciais com linguagem natural
-### 📫 Contato
+
+### Contato
 
 - LinkedIn: [](https://www.linkedin.com/in/marcelo-pena-guerra)
 - Email: guerramarcelopena@gmail.com
+
 ---
 
 <details>
-<summary>🇺🇸 <strong>English</strong></summary>
+<summary>English</summary>
 
 ### About me
 
@@ -88,6 +85,12 @@ Currently transitioning to **Data Science**, studying from scratch in focused mo
 ### Currently learning
 
 - `pandas` — cleaning, groupby, EDA
-- In progress: **data-job salary analysis** project (coming soon)
+- RAG, LLM, agents — focused on legal automation
+- In progress: **AURA Agent** — RPA robot with integrated LLM, capable of reading petitions, classifying cases, and operating judicial systems with natural language
+
+### Contact
+
+- LinkedIn: [](https://www.linkedin.com/in/marcelo-pena-guerra)
+- Email: guerramarcelopena@gmail.com
 
 </details>
